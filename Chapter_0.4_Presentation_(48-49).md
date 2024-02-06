@@ -9,6 +9,9 @@
 ### Definitions:
 <img width="725" alt="Screenshot 2024-02-06 at 7 08 35 AM" src="https://github.com/StrwHatF1k1r/csc208/assets/106093745/93f68100-f282-4e6d-9758-b52ad1397ab5">
 
+### Textbook Examples:
+<img width="526" alt="Screenshot 2024-02-06 at 7 18 04 AM" src="https://github.com/StrwHatF1k1r/csc208/assets/106093745/faee0d5a-cc09-484a-9d70-6fe6acdc8fb9">
+<img width="500" alt="Screenshot 2024-02-06 at 7 20 09 AM" src="https://github.com/StrwHatF1k1r/csc208/assets/106093745/7ec7a133-2039-454c-b5a9-c1e60e4af5bc">
 
 
 
