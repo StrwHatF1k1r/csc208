@@ -13,6 +13,13 @@
 <img width="526" alt="Screenshot 2024-02-06 at 7 18 04 AM" src="https://github.com/StrwHatF1k1r/csc208/assets/106093745/faee0d5a-cc09-484a-9d70-6fe6acdc8fb9">
 <img width="500" alt="Screenshot 2024-02-06 at 7 20 09 AM" src="https://github.com/StrwHatF1k1r/csc208/assets/106093745/7ec7a133-2039-454c-b5a9-c1e60e4af5bc">
 
+### Credits
+<details>
+<summary><b>Links</b></summary>
+
+- [Image (mathematics)](https://en.wikipedia.org/wiki/Image_(mathematics))
+
+
 
 
 
